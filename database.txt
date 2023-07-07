@@ -1,0 +1,4 @@
+ 1 bread 20 2
+ 2 milk 30 3
+ 3 egg 10 1
+ 4 jam 40 2
